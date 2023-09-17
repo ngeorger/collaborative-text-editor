@@ -31,9 +31,9 @@ export async function POST(request: NextRequest) {
 
 const USER_INFO = [
   {
-    name: "Charlie Layne",
+    name: "Nicolas Georger",
     color: "#D583F0",
-    picture: "https://liveblocks.io/avatars/avatar-1.png",
+    picture: "https://avatars.githubusercontent.com/u/34670018?s=400&u=00c927b75fee8408b4cf4d8d897f1053889beb28&v=4",
   },
   {
     name: "Mislav Abha",
